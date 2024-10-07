@@ -1,4 +1,6 @@
 # CMPG-323-Project-5-28563646
+[CMPG-323-Project-5-28563646](https://github.com/users/RefiloeMofubetsoana/projects/2)
+
 Project 5 is a Power BI project. In this assignment we will be illustrating data visualization skills.
 
 In order to provide information on the time and money savings for each project and client, this project was created for NWU Tech Trends. The goal is to give stakeholders with actionable information that will drive decision-making through interactive Power BI reports.
